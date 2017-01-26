@@ -1,2 +1,2 @@
 # photo-gallery
-A photo gallery, created to practice working with Bootstrap.
+A photo gallery of my favorite memes, created to practice working with Bootstrap.
